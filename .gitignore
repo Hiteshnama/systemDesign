@@ -1,0 +1,8 @@
+# Ignore Resources or any large/local files
+Resources/
+*.log
+*.exe
+*.pdf
+
+# VS Code settings (optional)
+.vscode/
